@@ -7,3 +7,7 @@ Follow the instructions : [Installing Rust](https://doc.rust-lang.org/book/insta
 Install emacs package [rust-mode](https://github.com/rust-lang/rust-mode)
 
 # Run the test
+
+```
+cargo test
+```
